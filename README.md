@@ -1,2 +1,2 @@
 # transformer_summarisation
-Summarise test using NLP transformer in Trax.
+This is to summerise the text using encoder decorder architecture
